@@ -1,8 +1,7 @@
 ---
-title: "HelloWorld.md"
+title: "Hello World"
 author: "Mariana"
 date: "7/4/2020"
-output: html_document
+output: word_document
 ---
-## This is a markdown file 
-
+## This is a markdown file
